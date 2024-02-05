@@ -1,8 +1,8 @@
-# instride AG
-> We develop digital tools for success.
-> ⚙️ creation | 💡 engineering | 📈 growth
+# instride
+> We develop digital tools for success
+> → ⚙️ creation | 💡 engineering | 📈 growth
 
-![instride AG](https://github.com/instride-ch/.github/assets/17384333/675190cf-27ee-48c4-9bcb-b6b4c7e5e70e)
+![instride](https://github.com/instride-ch/.github/assets/17384333/675190cf-27ee-48c4-9bcb-b6b4c7e5e70e)
 
 ***
 
